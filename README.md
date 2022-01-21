@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey Guys
 
-<!--
-**apicon22/apicon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+### I'm Anthony Picon
+I'm a full time student at Raritan Valley Community College studying Information Systems and Technology
+
+My hobbies include:
+
+* Cars 🚗
+* Gaming 🎮
+* Reading Poetry and Manga 📚
+* Hiking 🌄
