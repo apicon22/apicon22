@@ -1,11 +1,12 @@
-# Hey Guys
+# Hey Everyone
 
 
 
 ## 🚀 About Me
 
 ### I'm Anthony Picon
-I'm a full time student at Raritan Valley Community College studying Information Systems and Technology
+I graduated from Raritan Valley Community College with an associate's degree in Information Systems and Technology
+My goal is to complete projects and learn as much as I can to work in the field and be a strong asset for a company.
 
 My hobbies include:
 
